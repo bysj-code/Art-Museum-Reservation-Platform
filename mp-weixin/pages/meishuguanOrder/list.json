@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "参观预约",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#8989c3",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "岳阳市美术馆预约平台首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}
